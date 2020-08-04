@@ -1,5 +1,6 @@
 ---
-subtitle: Online research on best practices for a product. Check credible and relevant sources. 
+subtitle: Online research on best practices for a product. 
 ---
+Review competitors’ approach and strategy behind products. 
 
-*Add content*
+Consider features to include and exclude based on this research. 
